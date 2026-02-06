@@ -4,4 +4,4 @@
 - 🌱 Estou aprendendo a programar em linguagens simples, sou iniciante
 - ⚙️ Cursando Desenvolvimento de Sistemas no SENAI
 - ⚡ Eu amo música! Toco Guitarra, violão, baixo, cavaco, teclado e um pouco de bateria!
-- Você é top! (a menos que você não seja)
+- 👌 Você é top! (a menos que você não seja)
