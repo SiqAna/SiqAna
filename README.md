@@ -10,6 +10,4 @@ ________________________________________________________________________________
 >
 > ⚙️ Cursando Desenvolvimento de Sistemas no SENAI
 >
-> ⚡ Eu amo música! Toco Guitarra, violão, baixo, cavaco, teclado e um pouco de bateria!
->
 > 👌 Você é top! (a menos que você não seja)
