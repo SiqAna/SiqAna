@@ -2,9 +2,6 @@
 
 ______________________________________________________________________________________________________________
 
- <img src="https://media1.tenor.com/m/n_bsfxFfl5MAAAAC/cat-cat-exploding.gif" alt="Gato explodindo" width="150"> - Boom
-______________________________________________________________________________________________________________
-
 > ⚙️ Cursando Desenvolvimento de Sistemas no SENAI
 
 
